@@ -1,1 +1,1 @@
-"# kwarta" 
+Kwarta
